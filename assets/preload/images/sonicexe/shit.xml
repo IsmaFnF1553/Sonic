@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shit.png">
+<SubTexture name="shit0000" x="0" y="0" width="2110" height="960" frameX="-490" frameY="-420" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="shit0001" x="0" y="960" width="2130" height="1000" frameX="-470" frameY="-420" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="shit0002" x="0" y="1960" width="2140" height="1020" frameX="-450" frameY="-430" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="shit0003" x="0" y="2980" width="2220" height="1010" frameX="-380" frameY="-430" frameWidth="3000" frameHeight="2000" />
+</TextureAtlas>
